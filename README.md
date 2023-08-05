@@ -6,7 +6,7 @@ For this task, our assignment was to develop a logo generator that operates thro
 
 ## Video Link
 
-
+[Logo-Maker video](https://drive.google.com/file/d/1OEHHIi4Ano0iZbsPu2f-Eo-oHhoozvA7/view)
 
 ## Screenshot
 
